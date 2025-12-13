@@ -1,0 +1,14 @@
+Unsupervised Learning: K-Means Clustering on Material Demand
+============================================================
+
+Cluster Mean Values:
+         ACSR_Conductor_m  Towers_Steel_Count  Insulators_Count  Power_Transformers_Count  Circuit_Breakers_Count   Concrete_m3
+Cluster                                                                                                                        
+0            26047.404317           17.325554        621.742999                  0.011085                0.257293   1061.103804
+1           344607.254438          213.593195       4068.914201                  0.000000                0.000000  17899.889660
+2             2764.706473           11.350446        550.135045                  1.841518                5.987723    554.883225
+
+Interpretation & Labels:
+Cluster 0: Minor_Transmission_Maintenance
+Cluster 1: Major_Transmission_Line
+Cluster 2: Substation_Project
