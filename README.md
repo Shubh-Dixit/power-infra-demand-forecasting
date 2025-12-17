@@ -1,5 +1,8 @@
 # Intelligent Forecasting System for Power Infrastructure
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://power-infra-demand-forecasting.vercel.app/)
+
+
 ![Project Hero](frontend/src/assets/hero_nature_grid.png)
 
 ## About the Project
